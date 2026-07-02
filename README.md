@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hey,%20I'm%20Brian%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20Freelancer%20·%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,25:150033,50:2a0060,75:3d0080,100:6d00ff&height=230&section=header&text=BRIAN%20HEXER&fontSize=48&fontColor=00f7ff&animation=twinkling&fontAlignY=38&desc=%3C%20Full-Stack%20Developer%20%2F%2F%20System%20Architect%20%2F%2F%20AI%2FML%20Builder%20%3E&descAlignY=58&descSize=16&descColor=b967ff" width="100%"/>
 
-<a href="https://linkedin.com/in/brianhexer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/brianhexer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://x.com/brianhexer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:brianhexer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://brianhexer.hepthex.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/LOCATION-COIMBATORE%2C_IN-00f7ff?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/AVAILABILITY-OPEN_TO_WORK-b967ff?style=for-the-badge&labelColor=0d0d0d"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;VLSI+%2B+AI%2FML+Enthusiast;Freelance+Developer+%7C+Open+to+Work;Building+HEPTHEX+%E2%80%94+A+Creative+Tech+Studio" alt="Typing SVG" />
+<br/><br/>
+
+<a href="https://linkedin.com/in/brianhexer"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/></a>
+<a href="https://github.com/brianhexer"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f7ff"/></a>
+<a href="https://x.com/brianhexer"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=00f7ff"/></a>
+<a href="mailto:brianhexer@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00f7ff"/></a>
+<a href="https://brianhexer.hepthex.com"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f7ff"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Full+Stack+Web+Developer;%3E+VLSI+%2B+AI%2FML+Researcher;%3E+Freelance+Developer+%7C+Open+to+Work;%3E+Building+HEPTHEX+%E2%80%94+A+Creative+Tech+Studio;%3E+Deploying+ideas+to+production_" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2&width=1000" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+<h2 align="center">
+<img src="https://img.shields.io/badge/00-SYSTEM__PROFILE-0d0d0d?style=flat-square&labelColor=00f7ff&color=0d0d0d"/>
+</h2>
 
 ```yaml
 role: Full Stack Developer & Freelance Web Developer
@@ -22,15 +36,15 @@ based_in: Coimbatore, Tamil Nadu, India
 currently: 🔭 Looking for a full-time Full Stack role + freelance web projects
 research: 🧪 TEEP Intern @ National Dong Hwa University, Taiwan (AI/ML, AIoT, Quantum Computing)
 building: 🚀 HEPTHEX — A Global Creative Tech Company · Studio · Agency
+leading: 🎗️ Imm. Past President / Club Advisor / Web & Tech Admin — Rotaract Club of Coimbatore City
 domains: [VLSI Design, Embedded Systems, IoT, AI/ML, Deepfake Detection, Full Stack Web Dev]
-fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📍 Contact**
+**📡 Contact**
 - 📧 brianhexer@gmail.com
 - 📱 +91 638-251-7017
 - 🌐 brianhexer.hepthex.com
@@ -39,7 +53,7 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 </td>
 <td width="50%" valign="top">
 
-**💡 Currently**
+**⚡ Currently**
 - 🔭 Freelancing in full-stack web development
 - 🌱 Deepening AI/ML & AIoT research
 - 👯 Open to collaborating on VLSI / Web / AI projects
@@ -51,10 +65,12 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 
 <br/>
 
-## 🛠️ Tech Stack
+<h2 align="center">
+<img src="https://img.shields.io/badge/01-TECH__STACK-0d0d0d?style=flat-square&labelColor=b967ff&color=0d0d0d"/>
+</h2>
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>⚙️ Languages</b></summary>
 <br/>
 
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge)
@@ -69,7 +85,7 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 </details>
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -82,7 +98,7 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 </details>
 
 <details open>
-<summary><b>Backend & Databases</b></summary>
+<summary><b>🗄️ Backend & Databases</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -96,7 +112,7 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 </details>
 
 <details open>
-<summary><b>AI / ML & Hardware Tools</b></summary>
+<summary><b>🧠 AI / ML & Hardware Tools</b></summary>
 <br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -110,7 +126,7 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 </details>
 
 <details open>
-<summary><b>Cloud, DevOps & Design</b></summary>
+<summary><b>☁️ Cloud, DevOps & Design</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -128,10 +144,12 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 
 <br/>
 
-## 💼 Experience
+<h2 align="center">
+<img src="https://img.shields.io/badge/02-EXPERIENCE__LOG-0d0d0d?style=flat-square&labelColor=00ff9f&color=0d0d0d"/>
+</h2>
 
 <table>
-<tr><th>Role</th><th>Organization</th><th>Duration</th></tr>
+<tr><th>🧩 Role</th><th>🏢 Organization</th><th>📅 Duration</th></tr>
 <tr><td>TEEP Research Intern (AI/ML, AIoT, Quantum Computing)</td><td>Dept. of Physics, National Dong Hwa University, Taiwan</td><td>Aug 2025 – Feb 2026</td></tr>
 <tr><td>Robotics Operator & Technical Support Engineer — Intern</td><td>ROBOMIRACLE, Coimbatore</td><td>May – Jul 2025</td></tr>
 <tr><td>Skill Development Program — Autonomous Robotics</td><td>KAHE, Coimbatore</td><td>Apr 2024</td></tr>
@@ -140,7 +158,9 @@ fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
 
 <br/>
 
-## 🚀 Featured Projects
+<h2 align="center">
+<img src="https://img.shields.io/badge/03-FEATURED__PROJECTS-0d0d0d?style=flat-square&labelColor=00f7ff&color=0d0d0d"/>
+</h2>
 
 <table>
 <tr>
@@ -195,58 +215,77 @@ Autonomous drone for real-time threat detection & live streaming
 
 <br/>
 
-## 🎗️ Social Engagements
+<h2 align="center">
+<img src="https://img.shields.io/badge/04-LEADERSHIP__%26__SOCIAL-0d0d0d?style=flat-square&labelColor=b967ff&color=0d0d0d"/>
+</h2>
 
 - **Web & Tech Committee Member** — Rotaract South Asia Multi District Information Organisation (RY 2026–2027)
 - **Past President / Club Advisor** — Rotaract Club of Coimbatore City (RY 2026–2027)
+- **Immediate Past President / Club Advisor / Web & Tech Administrator** — Rotaract Club of Coimbatore City (RY 2025–2026)
 - **President** — Rotaract Club of Coimbatore City (RY 2024–2025)
 - **Treasurer** — Rotaract Club of Karpagam Academy of Higher Education (RY 2023–2024)
 - **Organizer** — TRONIX 2k24/2k25 (Tech-fests), PRANAYA 2k24/2k25 (National Cultural Festivals)
 
 <br/>
 
-## 📊 GitHub Analytics
+<h2 align="center">
+<img src="https://img.shields.io/badge/05-GITHUB__ANALYTICS-0d0d0d?style=flat-square&labelColor=00ff9f&color=0d0d0d"/>
+</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=brianhexer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brianhexer&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=brianhexer&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&icon_color=b967ff&text_color=c0c0c0&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brianhexer&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&text_color=c0c0c0&layout=compact"/>
 
-<img src="https://streak-stats.demolab.com/?user=brianhexer&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=brianhexer&theme=radical&hide_border=true&background=0D0D0D&ring=00F7FF&fire=B967FF&currStreakLabel=00F7FF" width="65%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=brianhexer&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=brianhexer&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
 
-<details>
-<summary><b>📈 Contribution Graph</b></summary>
+<details open>
+<summary><b>📈 Contribution Activity Graph</b></summary>
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=brianhexer&theme=tokyo-night&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=brianhexer&theme=react-dark&bg_color=0d0d0d&color=00f7ff&line=b967ff&point=00ff9f&hide_border=true)
+
+</details>
+
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br/>
+
+![](https://raw.githubusercontent.com/brianhexer/brianhexer/output/github-contribution-grid-snake-dark.svg)
+
+<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the workflow to your profile repo to auto-generate this animation.</sub>
 
 </details>
 
 <br/>
 
-## 🌐 Connect With Me
+<h2 align="center">
+<img src="https://img.shields.io/badge/06-CONNECT-0d0d0d?style=flat-square&labelColor=b967ff&color=0d0d0d"/>
+</h2>
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/brianhexer)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/brianhexer)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brian_offl)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@brianhexer)
+[![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=00f7ff)](https://discord.gg/brianhexer)
+[![Facebook](https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=00f7ff)](https://facebook.com/brianhexer)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=00f7ff)](https://instagram.com/brian_offl)
+[![YouTube](https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=00f7ff)](https://youtube.com/@brianhexer)
 
 </div>
 
-## ☕ Support My Work
+<h2 align="center">
+<img src="https://img.shields.io/badge/07-SUPPORT-0d0d0d?style=flat-square&labelColor=00ff9f&color=0d0d0d"/>
+</h2>
 
 <div align="center">
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brianhexer)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BrianHexer)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BrianHexer)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/brianhexer)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0d0d0d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=00ff9f)](https://buymeacoffee.com/brianhexer)
+[![PayPal](https://img.shields.io/badge/PayPal-0d0d0d?style=for-the-badge&logo=paypal&logoColor=00ff9f)](https://paypal.me/BrianHexer)
+[![Patreon](https://img.shields.io/badge/Patreon-0d0d0d?style=for-the-badge&logo=patreon&logoColor=00ff9f)](https://patreon.com/BrianHexer)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-0d0d0d?style=for-the-badge&logo=ko-fi&logoColor=00ff9f)](https://ko-fi.com/brianhexer)
 
 </div>
 
@@ -254,10 +293,12 @@ Autonomous drone for real-time threat detection & live streaming
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=brianhexer&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b967ff&height=2&width=1000" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+![Visitors](https://komarev.com/ghpvc/?username=brianhexer&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<sub>⚡ Designed with a HEPTHEX-inspired dark glassmorphism aesthetic — built to compile, not just to look good.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d00ff,25:3d0080,50:2a0060,75:150033,100:05001a&height=200&section=footer" width="100%"/>
 
 </div>
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
