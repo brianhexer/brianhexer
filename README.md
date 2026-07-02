@@ -1,31 +1,263 @@
-# 💫 About Me:
-currently im looking for job as fullstack developer<br>and website development as a freelancing<br><br>Coimbatore, Tamil Nadu, India   |  +91 638-251-7017<br>brianhexer@gmail.com | linkedin.com/in/brianhexer | github.com/brianhexer<br> brianhexer.hepthex.com | 0009-0009-2561-941X<br><br>TECHNICAL SKILLS<br>Languages: Verilog, SystemVerilog, Python, C, C++, Java, JavaScript<br>Front-end: React.js, Bootstrap, Responsive Design | Back-end: Node.js, Express.js, Flask, Django, RESTful APIs<br>Databases: MongoDB, Basic SQL<br>Tools & Frameworks: ModelSim, Quartus Prime, EDA Playground, TensorFlow, PyTorch, YOLO<br>Design & Multimedia: Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Canva<br>Domains: VLSI Design, Embedded Systems, IoT, AI/ML, Quantum Computing, Deepfake Detection, Full Stack Web Development,<br>Video Forensics<br>Concepts: Digital Architecture, Chip Simulation, UVM, System Design, Microcontroller Programming, Sensor Integration, Cloud<br>Analytics, Predictive Modeling, Neural Networks, Video Analysis, Security Systems<br><br>INTERNSHIP & WORK EXPERIENCE<br>TEEP Intern | Department of Physics, National Dong Hwa University (NDHU), Hualien, Taiwan (Aug 2025 – Feb 2026)<br>• Conducting interdisciplinary research in collaboration with Prof. Jen-Yeu Chen from the Department of Electrical Engineering.<br>Focused on AI/ML, Artificial Intelligence of Things (AIoT), wireless networks and quantum computing. Engaged in<br>cross-disciplinary projects to advance innovative technologies over a period of 6 months tenure.<br>Robotics Operator & Technical Support Engineer - Intern | ROBOMIRACLE, Coimbatore, Tamil Nadu (May – Jul 2025)<br>• Operated robotic systems and provided technical support for automation workflows. Assisted in troubleshooting<br>hardware/software issues and contributed to system optimization.<br>Skill Development Program on Autonomous Robotics | KAHE, Coimbatore, Tamil Nadu, India (Apr 2024)<br>• Gained hands-on experience in autonomous navigation, robotics programming, and sensor integration.<br>Embedded Systems with IoT Internship | Coimbatore, Tamil Nadu, India (Dec 2023)<br>• Developed IoT-enabled systems by integrating hardware and software. Worked on microcontroller programming and sensor<br>interfacing.<br>PROJECTS<br>DeepFakeVigilant | Deep Learning, CNN, ELA, GAN<br>• Developed a CNN-ELA-GAN and semantic consistency checks with fusion AI platform for full-video deepfake detection,<br>achieving 99.2% accuracy.<br>Mandarin Guide Web App | Full-Stack Web, PWA, Local Storage<br>• Built an offline-capable web app with 36 interactive modules helping international students learn Mandarin.<br>AIoT Smart Animal Repellent System | AIoT, Computer Vision, Edge Computing<br>• Built an AIoT animal repellent system using YOLO, achieving 98% macaque recognition accuracy.<br>IoT-Based Futuristic Energy Meter | IoT, Cloud Analytics, Smart Grid Integration<br>• Developed an SIH 2023-recognized cloud energy monitoring dashboard enabling remote tracking and load control.<br>Smart Farming System Using IoT | IoT, Automation, Agriculture<br>• Developed an IoT precision farming system with sensor-driven automated irrigation to optimize crop yields.<br>Line Following Robot | Autonomous Robotics, Sensor Integration<br>• Engineered a sensor-integrated autonomous robot for consistent line tracking and reliable obstacle avoidance.<br>Surveillance and Security Drone | AI, Deep Learning, Computer Vision<br>• Engineered an autonomous AI drone for real-time threat detection, live streaming, and anomaly alerts.<br><br>SOCIAL ENGAGEMENTS<br>Web & Tech - Committee Member | Rotaract South Asia Multi District Information Organisation (RSA MDIO) (RY 2026 - 2027)<br>Past President / Club Advisor | Rotaract Club of Coimbatore City (RY 2026 – 2027)<br>Immediate Past President / Club Advisor / Web & Tech Administrator | Rotaract Club of Coimbatore City (RY 2025 – 2026)<br>Provides strategic guidance to the incoming board, advised on project planning and managed the club’s digital infrastructure and<br>communications platforms.<br>President | Rotaract Club of Coimbatore City (RY 2024 – 2025)<br>Spearheading community development projects and fostering leadership among youth.<br>Treasurer | Rotaract Club of Karpagam Academy of Higher Education (RY 2023 – 2024)<br>Oversaw budgeting, funding and transparent financial operations for club initiatives.<br>Special Invitee & Member | Institutional Student Grievance Redressal Committee, KAHE (2024 - 2026)<br>Actively contributed to building a more inclusive and student-friendly academic environment.<br>Organizer<br>TRONIX 2k24 (Tech-fest), TRONIX 2k25 (Tech-fest),<br>PRANAYA 2k24 (A National Level Cultural Festival) & PRANAYA 2k25 (A National Level Cultural Festival).<br>Sports Engagements<br>Badminton, Chess, Cricket and Football – Showcasing team spirit, focus and sportsmanship.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hey,%20I'm%20Brian%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20Freelancer%20·%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/brianhexer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/brianhexer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brian_offl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brianhexer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brianhexer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brianhexer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brianhexer@gmail.com) 
+<a href="https://linkedin.com/in/brianhexer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/brianhexer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://x.com/brianhexer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:brianhexer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://brianhexer.hepthex.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=brianhexer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=brianhexer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=brianhexer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;VLSI+%2B+AI%2FML+Enthusiast;Freelance+Developer+%7C+Open+to+Work;Building+HEPTHEX+%E2%80%94+A+Creative+Tech+Studio" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brianhexer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brianhexer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🧭 About Me
 
----
-[![](https://komarev.com/ghpvc/?username=brianhexer&icon=10&color=0)](https://visitcount.itsvg.in)
+```yaml
+role: Full Stack Developer & Freelance Web Developer
+based_in: Coimbatore, Tamil Nadu, India
+currently: 🔭 Looking for a full-time Full Stack role + freelance web projects
+research: 🧪 TEEP Intern @ National Dong Hwa University, Taiwan (AI/ML, AIoT, Quantum Computing)
+building: 🚀 HEPTHEX — A Global Creative Tech Company · Studio · Agency
+domains: [VLSI Design, Embedded Systems, IoT, AI/ML, Deepfake Detection, Full Stack Web Dev]
+fun_fact: Past President, Rotaract Club of Coimbatore City 🎗️
+```
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brianhexer) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BrianHexer) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BrianHexer) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/brianhexer) 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+**📍 Contact**
+- 📧 brianhexer@gmail.com
+- 📱 +91 638-251-7017
+- 🌐 brianhexer.hepthex.com
+- 🆔 ORCID: 0009-0009-2561-941X
+
+</td>
+<td width="50%" valign="top">
+
+**💡 Currently**
+- 🔭 Freelancing in full-stack web development
+- 🌱 Deepening AI/ML & AIoT research
+- 👯 Open to collaborating on VLSI / Web / AI projects
+- 💬 Ask me about PHP/MySQL systems, React, or AIoT
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI / ML & Hardware Tools</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-black?style=for-the-badge)
+![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-black?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>Cloud, DevOps & Design</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</details>
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr><th>Role</th><th>Organization</th><th>Duration</th></tr>
+<tr><td>TEEP Research Intern (AI/ML, AIoT, Quantum Computing)</td><td>Dept. of Physics, National Dong Hwa University, Taiwan</td><td>Aug 2025 – Feb 2026</td></tr>
+<tr><td>Robotics Operator & Technical Support Engineer — Intern</td><td>ROBOMIRACLE, Coimbatore</td><td>May – Jul 2025</td></tr>
+<tr><td>Skill Development Program — Autonomous Robotics</td><td>KAHE, Coimbatore</td><td>Apr 2024</td></tr>
+<tr><td>Embedded Systems with IoT — Internship</td><td>Coimbatore</td><td>Dec 2023</td></tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🕵️ DeepFakeVigilant**
+Deep Learning · CNN · ELA · GAN
+Fusion AI platform for full-video deepfake detection — **99.2% accuracy**
+
+</td>
+<td width="50%">
+
+**🗣️ Mandarin Guide Web App**
+Full-Stack · PWA · Local Storage
+Offline-capable app with 36 interactive modules for learning Mandarin
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🐒 AIoT Smart Animal Repellent System**
+AIoT · Computer Vision · Edge Computing
+YOLO-based system — **98% macaque recognition accuracy**
+
+</td>
+<td width="50%">
+
+**⚡ IoT-Based Futuristic Energy Meter**
+IoT · Cloud Analytics · Smart Grid
+SIH 2023-recognized dashboard for remote tracking & load control
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌾 Smart Farming System Using IoT**
+IoT · Automation · Agriculture
+Sensor-driven automated irrigation to optimize crop yields
+
+</td>
+<td width="50%">
+
+**🛰️ Surveillance and Security Drone**
+AI · Deep Learning · Computer Vision
+Autonomous drone for real-time threat detection & live streaming
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎗️ Social Engagements
+
+- **Web & Tech Committee Member** — Rotaract South Asia Multi District Information Organisation (RY 2026–2027)
+- **Past President / Club Advisor** — Rotaract Club of Coimbatore City (RY 2026–2027)
+- **President** — Rotaract Club of Coimbatore City (RY 2024–2025)
+- **Treasurer** — Rotaract Club of Karpagam Academy of Higher Education (RY 2023–2024)
+- **Organizer** — TRONIX 2k24/2k25 (Tech-fests), PRANAYA 2k24/2k25 (National Cultural Festivals)
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=brianhexer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brianhexer&theme=tokyonight&hide_border=true&layout=compact"/>
+
+<img src="https://streak-stats.demolab.com/?user=brianhexer&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=brianhexer&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=brianhexer&theme=tokyo-night&hide_border=true)
+
+</details>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/brianhexer)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/brianhexer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brian_offl)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@brianhexer)
+
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brianhexer)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BrianHexer)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BrianHexer)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/brianhexer)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=brianhexer&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
