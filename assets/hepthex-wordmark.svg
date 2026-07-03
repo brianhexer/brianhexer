@@ -13,8 +13,8 @@
       </feMerge>
     </filter>
     <style>
-      .hxWord { font-family: 'JetBrains Mono', 'Courier New', monospace; font-weight: 800; font-size: 46px; letter-spacing: 6px; fill: url(#hxGrad); }
+      .hxWord { font-family: 'Blanka', 'Arial Black', 'Haettenschweiler', 'Impact', sans-serif; font-weight: 900; font-size: 50px; letter-spacing: 5px; fill: url(#hxGrad); }
     </style>
   </defs>
-  <text x="210" y="62" text-anchor="middle" class="hxWord" filter="url(#hxGlow)">HEPTHEX</text>
+  <text x="210" y="64" text-anchor="middle" class="hxWord" filter="url(#hxGlow)" transform="skewX(-6)">HEPTHEX</text>
 </svg>
